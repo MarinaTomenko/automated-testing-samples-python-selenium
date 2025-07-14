@@ -9,17 +9,17 @@
 
 ## Project Structure  
 
-| Folder | Description | Link |  
-|--------|-------------|------|  
-| **Browser Navigation** | Examples of browser navigation (back, forward, refresh). | [Go →](./browser_navigation_control) |  
-| **Browser Options** | Configuring Chrome options and page load strategies. | [Go →](./browser_options_and_page_loading_strategy) |  
-| **Waits & Expectations** | Implicit/Explicit waits and synchronization. | [Go →](./explicit_and_implicit_expectations) |  
-| **Data Validation** | Extracting and validating browser data. | [Go →](./getting_data_from_the_browser_and_validating_it) |  
-| **ChromeDriver Setup** | ChromeDriver initialization examples. | [Go →](./initializing_Chrome_driver) |  
-| **Element Locators** | Finding elements using various methods. | [Go →](./search_web_elements) |  
-| **File Handling** | Uploading/downloading files with Selenium. | [Go →](./uploading_and_downloading_files) |  
-| **Input Fields** | Working with forms and input elements. | [Go →](./working_with_input_fields) |  
-| **XPath Locators** | Advanced element location using XPath. | [Go →](./Xpath_locators) |  
+| Folder | Description | Link                                                |  
+|--------|-------------|-----------------------------------------------------|  
+| **Browser Navigation** | Examples of browser navigation (back, forward, refresh). | [Go→](./browser_navigation_control)                 |  
+| **Browser Options** | Configuring Chrome options and page load strategies. | [Go→](./browser_options_and_page_loading_strategy)  |  
+| **Waits & Expectations** | Implicit/Explicit waits and synchronization. | [Go→](./explicit_and_implicit_expectations)         |  
+| **Data Validation** | Extracting and validating browser data. | [Go→](./getting_data_from_the_browser_and_validating_it) |  
+| **ChromeDriver Setup** | ChromeDriver initialization examples. | [Go→](./initializing_Chrome_driver)                 |  
+| **Element Locators** | Finding elements using various methods. | [Go→](./search_web_elements)                        |  
+| **File Handling** | Uploading/downloading files with Selenium. | [Go→](./uploading_and_downloading_files)            |  
+| **Input Fields** | Working with forms and input elements. | [Go→](./working_with_input_fields)                  |  
+| **XPath Locators** | Advanced element location using XPath. | [Go→](./Xpath_locators)                             |  
 
 ## Setup Instructions  
 
