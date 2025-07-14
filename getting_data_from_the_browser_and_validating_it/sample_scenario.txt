@@ -1,0 +1,10 @@
+1. Initialize the driver.
+2. Open any page, for example: vk.com.
+3. Get and print the title to the console.
+4. Open any other page, for example: ya.ru.
+5. Get and print the title to the console.
+6. Go back and use assert to verify that you have indeed returned to the previous page.
+7. Refresh the page.
+8. Get and print the current page's URL.
+9. Go "forward" to the page from step 4.
+10. Verify that the URL has changed.

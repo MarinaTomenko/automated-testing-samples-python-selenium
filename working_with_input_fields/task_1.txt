@@ -1,0 +1,4 @@
+Task 1:
+1. Fill in all text fields with data (clear the fields before filling).
+2. Verify that the data has been correctly entered using get_attribute() and assert.
+Page for the task: https://demoqa.com/text-box

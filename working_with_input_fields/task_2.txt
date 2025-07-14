@@ -1,0 +1,4 @@
+Task 2:
+1. Click all status code links on the page using an element iteration algorithm.
+2. After each click, return to the starting page.
+Page for the task: http://the-internet.herokuapp.com/status_codes
